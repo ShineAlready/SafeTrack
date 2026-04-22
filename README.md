@@ -95,7 +95,7 @@ SafeTrack Kids addresses all six gaps with a unified platform:
 └──────────────┴──────────────────┴──┴─────────────────┴───┘
 
 Data flow: GPS → WiFi (HTTP POST) → REST API → Real-time Dashboards
-           GPS → LoRa (10s interval / 3s on alert) → Backend
+           
 ```
 
 ---
