@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="SafeTrack Kids Logo" width="120"/>
+<img src="logo.png" alt="SafeTrack Kids Logo" width="120"/>
 
 # SafeTrack Kids
 
